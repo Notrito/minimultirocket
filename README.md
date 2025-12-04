@@ -29,7 +29,7 @@ from sklearn.linear_model import RidgeClassifierCV
 
 model1 = miniminirocket()
 model2 = miniminirocket()
-
+```
 
 ## 📊 Algorithm Details
 
