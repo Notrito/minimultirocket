@@ -80,21 +80,6 @@ https://arxiv.org/abs/2012.08791
 https://arxiv.org/abs/2102.00457
 
 
-## 📁 Project Structure
-
-```
-minimultirocket-from-scratch/
-│
-├── README.md
-├── requirements.txt
-├── minimultirocket/
-│   ├── __init__.py
-│   ├── miniminirocket.py      # PPV-only implementation
-│   ├── minimultirocket.py     # 4-feature implementation
-│   └── notebook.ipynb
-```
-
-
 ## 👤 Author
 
 **Noel Triguero Torres**
